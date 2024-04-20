@@ -42,7 +42,7 @@ function Blog() {
 
 
       </div>
-      <div className='font-bold bg-black sm:hidden  w-[99vw] h-[.9px]'></div>
+      <div className='font-bold bg-black   w-[99vw] h-[.9px]'></div>
 
 
     </div>
