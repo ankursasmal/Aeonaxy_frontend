@@ -8,7 +8,7 @@ function Profile() {
 
 <div class="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 ">
       
-      <div className='flex flex-col col-span-1 pl-6'>
+      <div className='flex flex-col col-span-1sm:pl-0s md:pl-6 lg:pl-6'>
  <ProfileSmallPart/>
  <ProfileSmallPart/>
  <ProfileSmallPart/>
