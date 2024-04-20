@@ -1,18 +1,20 @@
-.textCenter{
-   padding-top:1.5vw ; 
- font-family: "Domine", serif !important;
- padding-left: 20px;
- }
-.textCenter1{
-     margin-bottom: 70px;
-  padding-left: 20px;
-  padding-right: 27vw;
-  font-size: 1.2vw;
- line-height: normal;
-font-family: "Domine", serif !important;
+.textCenter {
+   padding-top: 1.5vw;
+   font-family: "Domine", serif !important;
+   padding-left: 20px;
 }
-@media(min-width:620px){
-.hiderule{
-width: 0% !important;
+
+.textCenter1 {
+   margin-bottom: 70px;
+   padding-left: 20px;
+   padding-right: 27vw;
+   font-size: 1.2vw;
+   line-height: normal;
+   font-family: "Domine", serif !important;
 }
+
+@media(min-width:620px) {
+   .hiderule {
+      width: 0% !important;
+   }
 }

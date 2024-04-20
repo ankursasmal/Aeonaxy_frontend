@@ -1,4 +1,4 @@
- import React from 'react'
+import React from 'react'
 import Nav from './components/Nav'
 import LargeText from './components/LargeText'
 import TwoSeperate from './components/TwoSeperate'
@@ -11,26 +11,26 @@ import AppSection from './components/AppSection'
 import Blog from './components/Blog'
 import Cube from './components/Cube'
 import Footer from './components/Footer'
- 
- function App() {
-   return (
-     <div>
-      <Nav/>
-      <LargeText/>
-      <TwoSeperate/>
-      <div style={{backgroundColor:'#fad2a7',padding:'0.1px '}}> 
-      <BrownColorpart t1="A living network of curious minds." t2="Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinkina here. You'll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications"/>
-      <Profile/>
+
+function App() {
+  return (
+    <div>
+      <Nav />
+      <LargeText />
+      <TwoSeperate />
+      <div style={{ backgroundColor: '#fad2a7', padding: '0.1px ' }}>
+        <BrownColorpart t1="A living network of curious minds." t2="Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinkina here. You'll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications" />
+        <Profile />
       </div>
-      <Over100_Milion/>
-      <GreenColorPart/>
-      <GreenColorTwoPart/>
-      <AppSection/>
-      <Blog/>
-      <Cube/>
-      <Footer/>
-     </div>
-   )
- }
- 
- export default App
+      <Over100_Milion />
+      <GreenColorPart />
+      <GreenColorTwoPart />
+      <AppSection />
+      <Blog />
+      <Cube />
+      <Footer />
+    </div>
+  )
+}
+
+export default App

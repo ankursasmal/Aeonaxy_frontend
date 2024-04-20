@@ -1,18 +1,19 @@
-.textCenter{
+.textCenter {
     justify-content: center;
     align-items: center !important;
     padding: 0 26vw;
-align-content: center !important;
-text-align: center;
-line-height: 4.2vw;
-font-family: "Domine", serif !important;
+    align-content: center !important;
+    text-align: center;
+    line-height: 4.2vw;
+    font-family: "Domine", serif !important;
 }
-.textCenter1{
+
+.textCenter1 {
     justify-content: center;
     align-items: center !important;
     padding: 0 34vw;
-align-content: center !important;
-text-align: center;
-line-height: normal;
-font-family: "Domine", serif !important;
+    align-content: center !important;
+    text-align: center;
+    line-height: normal;
+    font-family: "Domine", serif !important;
 }
