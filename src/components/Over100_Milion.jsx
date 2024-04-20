@@ -16,7 +16,7 @@ function Over100_Milion({t1,t2}) {
             <div className='flex items-center'> 
                            <img src="https://img.freepik.com/premium-photo/casually-handsome-confident-young-handsome-man-jeans-shirt-keeping-arms-crossed-smiling-while-standing-against-white-background_425904-14571.jpg" alt=""  className='w-[13vw] h-[13vw] mr-3  rounded-full  '/>
                            <div  className={`${style.elips} h-[13vw] w-[7.5vw] bg-blue-600  h-30 rounded-full `}></div> 
-                            <div  className={`${style.smallelips} h-[13vw] w-[4vw] bg-blue-600  h-30 rounded-full `}></div> 
+                            <div  className={`${style.smallelips} h-[13vw] w-[3vw] bg-pink-300 h-30 rounded-full `}></div> 
                            </div>
 <a className='py-9  text-white text-[1.8vw]'> "Medium is a great place to read and learn from a wide range of authors. It's not muddied up by ads.
 It feels like one of the few pure places to go online."

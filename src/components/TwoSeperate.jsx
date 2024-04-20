@@ -25,7 +25,7 @@ Together with millions of collaborators, were building a trusted and vibrant eco
  <div className=' col-span-1 flex justify-center m-auto '>
 
 
-<img src={circleimg} alt="" className='w-[20vw] sm:w-[30vw]' />
+<img src={circleimg} alt="" className='w-[20vw] my-4 sm:w-[30vw]' />
 
 </div>
 <div className='font-bold bg-black w-[100vw] h-[.7px]'></div>
