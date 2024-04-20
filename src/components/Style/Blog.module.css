@@ -13,8 +13,8 @@
    font-family: "Domine", serif !important;
 }
 
-@media(min-width:620px) {
+@media(max-width:620px) {
    .hiderule {
-      width: 0% !important;
-   }
+      visibility: hidden !important;
+       width: 0%;   }
 }
