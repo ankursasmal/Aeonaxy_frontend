@@ -12,7 +12,7 @@ function GreenColorTwoPart() {
         <div className={`${style.center_property} col-span-1 flex items-center justify-between `}>
 
           <div className=' flex  flex-col py-[1vh] px-[.5vw]  sm:self-center '>
-            <a className='text-[4vw]  ' style={{
+            <a className=' sm:text-[5vw] md:text-[4vw]  lg:[4vw]' style={{
               fontFamily: "Domine, serif !important"
             }}>
 
@@ -28,7 +28,7 @@ function GreenColorTwoPart() {
         {/* col 2 */}
 
         <div className={`${style.center_property} col-span-1 flex  flex-col py-[1vh] px-[.5vw]  `}>
-          <a className='text-[4vw]   ' style={{
+          <a className='sm:text-[5vw] md:text-[4vw]  lg:[4vw]' style={{
             fontFamily: "Domine, serif !important"
           }}>
 

@@ -17,3 +17,23 @@
     line-height: normal;
     font-family: "Domine", serif !important;
 }
+@media (max-width:800px) {
+    .textCenter1 {
+        justify-content: center;
+        align-items: center !important;
+        padding: 0 20vw;
+        align-content: center !important;
+        text-align: center;
+        line-height: normal;
+        font-family: "Domine", serif !important;
+    } 
+    .textCenter {
+        justify-content: center;
+        align-items: center !important;
+        padding: 0 16vw;
+        align-content: center !important;
+        text-align: center;
+        line-height: 4.2vw;
+        font-family: "Domine", serif !important;
+    }
+}
